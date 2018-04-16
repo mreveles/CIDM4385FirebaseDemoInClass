@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "723303714469",
+    "firebase_url": "https://cidm4385firebasedemoinclass.firebaseio.com",
+    "project_id": "cidm4385firebasedemoinclass",
+    "storage_bucket": "cidm4385firebasedemoinclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723303714469:android:40a5d654f1bbcfc2",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.cidm4385firebasedemoinclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723303714469-k6vfjvghoju8odm0a2knecdojgge6rcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.cidm4385firebasedemoinclass",
+            "certificate_hash": "5c05b63a5d0bd83c769f0d5369736fdb245a16d5"
+          }
+        },
+        {
+          "client_id": "723303714469-i210ljct1b0hadhh0b08gklia9b5vhoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCgX6g-OAEZp29CQ7iNbPE3bTKvvLUqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723303714469-i210ljct1b0hadhh0b08gklia9b5vhoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
